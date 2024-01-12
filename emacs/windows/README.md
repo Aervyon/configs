@@ -4,7 +4,7 @@ Do not copy anything before the melpa comment (`;; melpa`)
 
 ## MELPA
 
-Melpa needs to be added before anything else. This is line 32-37.
+Melpa needs to be added before anything else. This starts at `;; mepla` and ends at the first `(package-initialize)`
 
 ## Dependencies
 
